@@ -1,0 +1,89 @@
+#main{
+	width:800px;
+	background:black;
+	color: white;
+	background-repeat:repeat-y;
+	margin-left:-400px;
+	background: black;
+	background-repeat: repeat-y;
+}
+
+#header{
+	width:800px;
+	height:155px;
+	background:red;
+	background-repeat:no-repeat;
+	border: 25px;
+	text-align: center;
+	font-size:24px;
+	font-family:Arial;
+	padding-top:30px;
+}
+
+#menu1{
+	width:530px;
+	height:35px;
+	background: gold;
+	background-repeat:no-repeat;
+	border: 25px;
+	padding-left:270px;
+	padding-top:10px;
+}
+
+#menu2{
+	width:550pxpx;
+	height:36px;
+	background:yellow;
+	background-repeat:no-repeat;
+	border: 25px;
+	padding-left:300px;
+	padding-top:10px;
+}
+
+#menu3{
+	width:550px;
+	height:72px;
+	background:gold;
+	background-repeat:no-repeat;
+	border: 25px;
+	padding-left:250px;
+	padding-top:35px;
+	font-size:14px;
+}
+
+#content{
+	float:left;
+	width:800px;
+	height: 290px; 
+	padding:15px;
+}
+
+#footer{
+	clear:both;
+	width:800px;
+	height:28px;
+	background: brown;
+	color: red;
+	background-repeat: repeat-x;
+	text-align: center;
+	padding-top:5px;
+}
+
+body{
+	width:800px;
+	padding-left:50%;
+	margin:0px;
+	color: black;
+}
+
+a.menu{
+	text-decoration: none;
+	color:white;
+	font-size:15px;
+	padding-left:10px;
+	padding-right:10px;
+}
+
+a:hover {
+	color: red
+}
